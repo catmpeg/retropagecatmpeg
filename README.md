@@ -1,7 +1,7 @@
 ретро страничка с моим био, работает на старых браузерах (html 3.2)
 
 
-<http://retro.xelframe.tolya1337.ru>
+<http://retro.cat.tolya1337.ru>
 
 
 <img src="images/ima1ge.png">
